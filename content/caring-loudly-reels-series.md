@@ -221,5 +221,64 @@ The 15s selfie clip (close-up → step-back in brown outfit → smiling close-up
 
 Spacing: post these weeks apart, alternating segments, occasionally flipping the clip horizontally so the feed doesn't read as identical thumbnails back-to-back.
 
+### 10. 50 overlays written for the brown clip
+All written so the footage only needs to be "me existing at home" — the text carries the story. Grouped by which segment to trim.
+
+**Segment A — opening close-up, calm gaze (vulnerable / direct):**
+1. Me, remembering the thing you told me not to worry about. Worrying. Lovingly.
+2. You said it casually. I heard it in 4K.
+3. Thinking about how you paused before you said "I'm fine."
+4. I don't miss people quietly. You'll get a text. Maybe a paragraph.
+5. Someone has to care first. Fine. It's me. It's always me. I don't mind.
+6. Caring first is not losing. It's literally just going first.
+7. Normalize saying "I thought about you today" with your whole chest.
+8. I'd rather text first every time than let you wonder if I care.
+9. Playing hard to get sounds exhausting. I'm playing easy to love.
+10. The most unbothered I've ever been is caring anyway.
+11. I reread my texts to you. Not out of anxiety. Out of craftsmanship.
+12. If I've met you, I've probably memorized something about you.
+13. You mentioned it half-asleep at 1am. It's in my Notes app under your name.
+14. There's an album in my camera roll called "things that are so you."
+15. I heard your voice change on the phone yesterday. So — how are you actually?
+16. Being soft in a nonchalant world is a full-time job. Anyway, I'm thriving.
+17. No one has ever complained that I remembered their birthday too hard.
+
+**Segment B — step-back, outfit moment (playful / confident):**
+18. Wearing the color you complimented. Again. This is a pattern now.
+19. Dressed like someone who texts back in under a minute. Because I do.
+20. "Why are you dressed up?" Because you called this dinner "nothing special." Wrong.
+21. Getting ready to go remember everyone's orders at dinner.
+22. This is my "on the way to give you your present early" outfit.
+23. Got ready fast. You said you'd had a bad day. That's the whole story.
+24. The outfit is for me. The playlist I'm making on the way is for you.
+25. Me, dressing up to hand-deliver something I could have posted.
+26. POV: I'm about to say "I saw this and thought of you" for the third time this week.
+27. Not a special occasion. I just decided you deserve effort today.
+28. "You remembered?" Babe, I got dressed for this. Of course I remembered.
+29. Off to show up. Early. With snacks. As is tradition.
+30. This is what "I'll be there in 10" looks like when I mean it.
+31. Yes, there's a card in my bag. Yes, I wrote it last night. Yes, I cried a little.
+32. Meeting you in 20. Already excited. Not hiding it.
+33. I don't do fashionably late. I do embarrassingly early with your coffee order.
+
+**Segment C — smiling close-up (funny / warm reaction shots):**
+34. Me after finding the exact thing you mentioned in March.
+35. The face of someone who just finished planning your birthday. It's months away.
+36. When you wear the thing I got you without knowing I noticed.
+37. You laughed at my joke once, so now I save my best material for you.
+38. Me, listening to you tell the story I've heard four times. Go on. I love this part.
+39. Me hearing "you didn't have to" for the fourth time this month. And yet.
+40. When the barista knows I'm ordering for two.
+41. Me after sending a risky text like "I miss you." No regrets. Zero.
+42. POV: you just said something you'll forget by tomorrow. I won't.
+43. How I look when someone finally lets me help them.
+44. When you tell me your good news first. FIRST. Do you know what that means to me?
+45. Me, pretending I didn't already buy the thing you're describing.
+46. The face of someone with three surprises currently in progress.
+47. When my delivery notification says your gift arrives tomorrow.
+48. You said my name in a story that had nothing to do with me. Anyway, I'm glowing.
+49. Me after you got home safe and texted without me asking.
+50. The audacity of people saying "it's not that deep." It IS that deep. Everything is.
+
 ### The end state
 After several videos, the audience isn't watching "cute relationship content." They're watching a person with a legible philosophy: she remembers, she notices, she makes things, she shows up — and she refuses to be embarrassed about it. That's when "this is literally me" reposts turn into "this is how Wynnona loves."
