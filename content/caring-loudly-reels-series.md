@@ -305,5 +305,44 @@ Pick 2–3 recurring sounds and reuse them — sonic consistency is part of the 
 
 Recommended signature trio (one per mood, then stick with them): Sparks (sincere) · Best Part (warm) · From the Start (playful).
 
+### 12. Engagement system — engineering shares and comments
+
+**Why people will share:** the overlays speak in second person ("you said…", "you mentioned…"), so sending the reel to someone IS the gesture — the DM arrives meaning "this is how I feel about you." Never break that spell by asking for shares in the caption.
+
+**Where the comment ask lives:** the p.s. first comment (pin it). The caption stays clean and signature; the p.s. carries the prompt. People comment when the answer takes 2 seconds or lets them self-identify.
+
+**P.S. prompt bank (rotate, always pinned):**
+- Vulnerable posts:
+  - p.s. send this to them instead of explaining.
+  - p.s. comment 🤍 if you're the one who always cares first.
+  - p.s. who did you think of? don't tell me. tell them.
+- Devoted posts:
+  - p.s. what's one tiny thing you've never forgotten about someone? i'm collecting them.
+  - p.s. tell me the last thing you bought because someone mentioned it once.
+  - p.s. what's their usual order? go.
+- Funny posts:
+  - p.s. tag yourself: are you this person or do you HAVE this person?
+  - p.s. comment 🧸 if your love language is remembering.
+  - p.s. fill in the blank: you said you liked ___, so obviously i remembered.
+
+**10 share-magnet overlays (use max 1 in every 5 posts so the series stays sincere):**
+1. For the friend who texts "home safe?" before you've even left.
+2. Send this to the person whose order you know by heart.
+3. If you have a friend who remembers everything you say — that's not a friend, that's a keeper.
+4. You have a person you screenshot things for. Yes, that one. Tell them.
+5. This is your sign to send the "thinking of you" text. I'll wait.
+6. POV: someone in your life loves like this. Send this so they know you noticed.
+7. To the ones who care first: you're not embarrassing. You're rare.
+8. Some of you have a friend who's been planning your birthday since March. Appreciate her.
+9. Reply to this with their name. Just kidding. Text them instead.
+10. If you read this and thought of someone — that's the whole point. Go.
+
+**Mechanics that compound:**
+- Text must be readable in ~3–4 seconds over a 15s clip → viewers loop it → watch time up.
+- Reply to every comment in the first hour, in the letter voice ("noted. adding this to my evidence that soft people are winning.") — replies double the comment count and train commenters to return.
+- Pin the p.s.; pin the best reader comment under it the next day.
+- Reshare each reel to Stories with a poll sticker ("are you this person? — yes / painfully") — story interactions push the reel to non-followers.
+- Watch which mood group gets the most shares in insights after ~9 posts, then shift the mix toward it.
+
 ### The end state
 After several videos, the audience isn't watching "cute relationship content." They're watching a person with a legible philosophy: she remembers, she notices, she makes things, she shows up — and she refuses to be embarrassed about it. That's when "this is literally me" reposts turn into "this is how Wynnona loves."
