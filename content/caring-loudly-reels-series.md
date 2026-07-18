@@ -189,5 +189,16 @@ Reuse 2–3 soft recurring audios rather than chasing trends. Sonic consistency 
 ### 7. Cadence
 1–2 reels per week, ideally a fixed day, batch-filmed from real errands (you're already doing the actions; just film 10 seconds of them).
 
+### 8. Zero-time filming plan (one 10-minute shoot = a month of content)
+Do NOT reuse the reference creator's video — it's his copyrighted footage and his face, and the series only works if the person on screen is you.
+
+Instead, film once during an errand you're already doing:
+1. **60s** — front camera at 0.5x, held low, just walking. Don't perform; look around, never at the lens.
+2. **30s** — walking while holding your coffee or tote.
+3. **20s** — close on hands: pushing a door, pressing a crosswalk button, picking something off a shelf.
+4. **30s** — sitting in a café window or bus seat, looking out.
+
+Reusing the same clip across many reels is fine (no Instagram penalty) and strategically smart — the same walk/jacket/street becomes the recognizable wrapper while only the text changes. Keep it fresh by trimming a different 8–10 seconds each time, occasionally flipping horizontally or adding a slow zoom, and rotating the 2–3 recurring audios. Existing camera-roll clips (car windows, cooking, walking) work as-is with an overlay.
+
 ### The end state
 After several videos, the audience isn't watching "cute relationship content." They're watching a person with a legible philosophy: she remembers, she notices, she makes things, she shows up — and she refuses to be embarrassed about it. That's when "this is literally me" reposts turn into "this is how Wynnona loves."
