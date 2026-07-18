@@ -200,5 +200,26 @@ Instead, film once during an errand you're already doing:
 
 Reusing the same clip across many reels is fine (no Instagram penalty) and strategically smart — the same walk/jacket/street becomes the recognizable wrapper while only the text changes. Keep it fresh by trimming a different 8–10 seconds each time, occasionally flipping horizontally or adding a slow zoom, and rotating the 2–3 recurring audios. Existing camera-roll clips (car windows, cooking, walking) work as-is with an overlay.
 
+### 9. The home clip — ready-to-post pairings
+The 15s selfie clip (close-up → step-back in brown outfit → smiling close-up) is three posts, not one. Trim a different segment each time. Add the text in the Instagram editor itself (Classic font, lowercase, lower third) so it stays native and identical across posts.
+
+**Segment A — opening close-up, calm gaze (~0–4s):**
+1. "It's not 'too much.' You were just used to too little." — caption: *caring loudly. love, wynnona* — p.s. read that again.
+2. "Nobody has ever felt loved by someone playing it cool." — caption: *the opposite of nonchalant. love, wynnona* — p.s. check on your soft friends.
+3. "One day of pretending not to care. That's all I lasted. Never again." — caption: *never learned to play it cool. love, wynnona*
+
+**Segment B — step-back, outfit moment (~4–11s):**
+4. "You said this color suits me. I've worn it four times since." *(written for this clip)* — caption: *yes, i'm like this on purpose. love, wynnona* — p.s. yes, this one's about you.
+5. "'You didn't have to dress up.' I know. I wanted to." *(written for this clip)* — caption: *caring loudly. love, wynnona*
+6. "Got ready in twenty minutes because you said you missed me." — caption: *this is how i love people. love, wynnona*
+
+**Segment C — smiling close-up (~11–15s):**
+7. "Not me remembering your mom's name, your dog's birthday, and your first concert." — caption: *caught caring again. love, wynnona* — p.s. tell them today.
+8. "'How did you know?' You told me. You always tell me. I always listen." — caption: *noticing is the whole point. love, wynnona*
+9. "If loving people out loud is cringe, I hope I never recover." — caption: *for my fellow yearners. love, wynnona*
+10. "Being nonchalant is free and I still can't afford it." — caption: *yes, i'm like this on purpose. love, wynnona*
+
+Spacing: post these weeks apart, alternating segments, occasionally flipping the clip horizontally so the feed doesn't read as identical thumbnails back-to-back.
+
 ### The end state
 After several videos, the audience isn't watching "cute relationship content." They're watching a person with a legible philosophy: she remembers, she notices, she makes things, she shows up — and she refuses to be embarrassed about it. That's when "this is literally me" reposts turn into "this is how Wynnona loves."
