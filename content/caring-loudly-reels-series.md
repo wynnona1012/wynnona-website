@@ -221,64 +221,89 @@ The 15s selfie clip (close-up → step-back in brown outfit → smiling close-up
 
 Spacing: post these weeks apart, alternating segments, occasionally flipping the clip horizontally so the feed doesn't read as identical thumbnails back-to-back.
 
-### 10. 50 overlays written for the brown clip
-All written so the footage only needs to be "me existing at home" — the text carries the story. Grouped by which segment to trim.
+### 10. 50 standalone overlays + captions (video is just background)
+The clip is a neutral backdrop — none of these reference what's on screen, so any text works over any part of the video. Every post below is copy-paste ready: overlay text + caption. Captions rotate within the signature set and always sign off "love, wynnona."
 
-**Segment A — opening close-up, calm gaze (vulnerable / direct):**
-1. Me, remembering the thing you told me not to worry about. Worrying. Lovingly.
-2. You said it casually. I heard it in 4K.
-3. Thinking about how you paused before you said "I'm fine."
-4. I don't miss people quietly. You'll get a text. Maybe a paragraph.
-5. Someone has to care first. Fine. It's me. It's always me. I don't mind.
-6. Caring first is not losing. It's literally just going first.
-7. Normalize saying "I thought about you today" with your whole chest.
-8. I'd rather text first every time than let you wonder if I care.
-9. Playing hard to get sounds exhausting. I'm playing easy to love.
-10. The most unbothered I've ever been is caring anyway.
-11. I reread my texts to you. Not out of anxiety. Out of craftsmanship.
-12. If I've met you, I've probably memorized something about you.
-13. You mentioned it half-asleep at 1am. It's in my Notes app under your name.
-14. There's an album in my camera roll called "things that are so you."
-15. I heard your voice change on the phone yesterday. So — how are you actually?
-16. Being soft in a nonchalant world is a full-time job. Anyway, I'm thriving.
-17. No one has ever complained that I remembered their birthday too hard.
+**Vulnerable / sincere:**
+1. Me, remembering the thing you told me not to worry about. Worrying. Lovingly. — *caring loudly. love, wynnona*
+2. You said it casually. I heard it in 4K. — *noticing is the whole point. love, wynnona*
+3. Thinking about how you paused before you said "I'm fine." — *this is how i love people. love, wynnona*
+4. I don't miss people quietly. You'll get a text. Maybe a paragraph. — *never learned to play it cool. love, wynnona*
+5. Someone has to care first. Fine. It's me. It's always me. I don't mind. — *caring loudly. love, wynnona*
+6. Caring first is not losing. It's literally just going first. — *the opposite of nonchalant. love, wynnona*
+7. Normalize saying "I thought about you today" with your whole chest. — *caring loudly. love, wynnona*
+8. I'd rather text first every time than let you wonder if I care. — *never learned to play it cool. love, wynnona*
+9. Playing hard to get sounds exhausting. I'm playing easy to love. — *yes, i'm like this on purpose. love, wynnona*
+10. The most unbothered I've ever been is caring anyway. — *the opposite of nonchalant. love, wynnona*
+11. I reread my texts to you. Not out of anxiety. Out of craftsmanship. — *yes, i'm like this on purpose. love, wynnona*
+12. If I've met you, I've probably memorized something about you. — *noticing is the whole point. love, wynnona*
+13. You mentioned it half-asleep at 1am. It's in my Notes app under your name. — *caught caring again. love, wynnona*
+14. There's an album in my camera roll called "things that are so you." — *romanticize people, not just your life. love, wynnona*
+15. I heard your voice change on the phone yesterday. So — how are you actually? — *this is how i love people. love, wynnona*
+16. Being soft in a nonchalant world is a full-time job. Anyway, I'm thriving. — *for my fellow yearners. love, wynnona*
+17. No one has ever complained that I remembered their birthday too hard. — *caught caring again. love, wynnona*
 
-**Segment B — step-back, outfit moment (playful / confident):**
-18. Wearing the color you complimented. Again. This is a pattern now.
-19. Dressed like someone who texts back in under a minute. Because I do.
-20. "Why are you dressed up?" Because you called this dinner "nothing special." Wrong.
-21. Getting ready to go remember everyone's orders at dinner.
-22. This is my "on the way to give you your present early" outfit.
-23. Got ready fast. You said you'd had a bad day. That's the whole story.
-24. The outfit is for me. The playlist I'm making on the way is for you.
-25. Me, dressing up to hand-deliver something I could have posted.
-26. POV: I'm about to say "I saw this and thought of you" for the third time this week.
-27. Not a special occasion. I just decided you deserve effort today.
-28. "You remembered?" Babe, I got dressed for this. Of course I remembered.
-29. Off to show up. Early. With snacks. As is tradition.
-30. This is what "I'll be there in 10" looks like when I mean it.
-31. Yes, there's a card in my bag. Yes, I wrote it last night. Yes, I cried a little.
-32. Meeting you in 20. Already excited. Not hiding it.
-33. I don't do fashionably late. I do embarrassingly early with your coffee order.
+**Thoughtful / devoted ("I did a thing" energy):**
+18. You mentioned it once. It's already ordered. Act surprised. — *caught caring again. love, wynnona*
+19. Three people crossed my mind today. All three got a text. — *caring loudly. love, wynnona*
+20. You can't say "I've been craving that" around me. It WILL appear. — *yes, i'm like this on purpose. love, wynnona*
+21. My screenshots folder is basically a museum of things you'd love. — *romanticize people, not just your life. love, wynnona*
+22. Booked the thing you said you'd "never get around to." We're going. — *caught caring again. love, wynnona*
+23. Asking "did you eat today?" is my version of small talk. — *this is how i love people. love, wynnona*
+24. I heard "no gifts this year" and simply did not agree. — *yes, i'm like this on purpose. love, wynnona*
+25. Your "random" care package was not random. I planned it for two weeks. — *caught caring again. love, wynnona*
+26. POV: I'm about to say "I saw this and thought of you" for the third time this week. — *noticing is the whole point. love, wynnona*
+27. Not a special occasion. I just decided you deserve effort today. — *caring loudly. love, wynnona*
+28. Saving memes for you is a form of long-distance hand-holding. — *for my fellow yearners. love, wynnona*
+29. Off to show up. Early. With snacks. As is tradition. — *this is how i love people. love, wynnona*
+30. This is what "I'll be there in 10" looks like when I mean it. — *never learned to play it cool. love, wynnona*
+31. Yes, there's a card in my bag. Yes, I wrote it last night. Yes, I cried a little. — *caught caring again. love, wynnona*
+32. Meeting you in 20. Already excited. Not hiding it. — *never learned to play it cool. love, wynnona*
+33. I don't do fashionably late. I do embarrassingly early with your coffee order. — *yes, i'm like this on purpose. love, wynnona*
 
-**Segment C — smiling close-up (funny / warm reaction shots):**
-34. Me after finding the exact thing you mentioned in March.
-35. The face of someone who just finished planning your birthday. It's months away.
-36. When you wear the thing I got you without knowing I noticed.
-37. You laughed at my joke once, so now I save my best material for you.
-38. Me, listening to you tell the story I've heard four times. Go on. I love this part.
-39. Me hearing "you didn't have to" for the fourth time this month. And yet.
-40. When the barista knows I'm ordering for two.
-41. Me after sending a risky text like "I miss you." No regrets. Zero.
-42. POV: you just said something you'll forget by tomorrow. I won't.
-43. How I look when someone finally lets me help them.
-44. When you tell me your good news first. FIRST. Do you know what that means to me?
-45. Me, pretending I didn't already buy the thing you're describing.
-46. The face of someone with three surprises currently in progress.
-47. When my delivery notification says your gift arrives tomorrow.
-48. You said my name in a story that had nothing to do with me. Anyway, I'm glowing.
-49. Me after you got home safe and texted without me asking.
-50. The audacity of people saying "it's not that deep." It IS that deep. Everything is.
+**Funny / warm:**
+34. Me after finding the exact thing you mentioned in March. — *caught caring again. love, wynnona*
+35. The face of someone who just finished planning your birthday. It's months away. — *yes, i'm like this on purpose. love, wynnona*
+36. When you wear the thing I got you without knowing I noticed. — *noticing is the whole point. love, wynnona*
+37. You laughed at my joke once, so now I save my best material for you. — *for my fellow yearners. love, wynnona*
+38. Me, listening to you tell the story I've heard four times. Go on. I love this part. — *this is how i love people. love, wynnona*
+39. Me hearing "you didn't have to" for the fourth time this month. And yet. — *caught caring again. love, wynnona*
+40. When the barista knows I'm ordering for two. — *romanticize people, not just your life. love, wynnona*
+41. Me after sending a risky text like "I miss you." No regrets. Zero. — *never learned to play it cool. love, wynnona*
+42. POV: you just said something you'll forget by tomorrow. I won't. — *noticing is the whole point. love, wynnona*
+43. How I look when someone finally lets me help them. — *this is how i love people. love, wynnona*
+44. When you tell me your good news first. FIRST. Do you know what that means to me? — *caring loudly. love, wynnona*
+45. Me, pretending I didn't already buy the thing you're describing. — *caught caring again. love, wynnona*
+46. The face of someone with three surprises currently in progress. — *yes, i'm like this on purpose. love, wynnona*
+47. When my delivery notification says your gift arrives tomorrow. — *caught caring again. love, wynnona*
+48. You said my name in a story that had nothing to do with me. Anyway, I'm glowing. — *for my fellow yearners. love, wynnona*
+49. Me after you got home safe and texted without me asking. — *this is how i love people. love, wynnona*
+50. The audacity of people saying "it's not that deep." It IS that deep. Everything is. — *the opposite of nonchalant. love, wynnona*
+
+### 11. Music
+Pick 2–3 recurring sounds and reuse them — sonic consistency is part of the signature. Keep the volume low; the text is the product. Search these in the IG audio library and prefer the version already used by similar text-overlay reels (check the audio page for reel counts).
+
+**For vulnerable / sincere texts:**
+- Sparks — Coldplay
+- Mystery of Love — Sufjan Stevens
+- About You — The 1975
+- Like Real People Do — Hozier
+- La Vie En Rose (any soft cover)
+
+**For sweet / warm texts:**
+- Best Part — Daniel Caesar ft. H.E.R.
+- Dandelions — Ruth B.
+- Until I Found You — Stephen Sanchez
+- This Is How You Fall in Love — Jeremy Zucker & Chelsea Cutler
+
+**For playful / funny texts:**
+- From the Start — Laufey
+- Valentine — Laufey
+- I Like U — NIKI
+- Put Your Records On — Ritt Momney
+- Get You — Daniel Caesar ft. Kali Uchis
+
+Recommended signature trio (one per mood, then stick with them): Sparks (sincere) · Best Part (warm) · From the Start (playful).
 
 ### The end state
 After several videos, the audience isn't watching "cute relationship content." They're watching a person with a legible philosophy: she remembers, she notices, she makes things, she shows up — and she refuses to be embarrassed about it. That's when "this is literally me" reposts turn into "this is how Wynnona loves."
