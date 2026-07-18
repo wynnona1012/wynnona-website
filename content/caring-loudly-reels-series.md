@@ -344,5 +344,69 @@ Recommended signature trio (one per mood, then stick with them): Sparks (sincere
 - Reshare each reel to Stories with a poll sticker ("are you this person? — yes / painfully") — story interactions push the reel to non-followers.
 - Watch which mood group gets the most shares in insights after ~9 posts, then shift the mix toward it.
 
+### 13. Copy-paste posting calendar (60 posts, in order)
+Song rule — only four sounds, one per mood: Sparks — Coldplay (sincere) · Best Part — Daniel Caesar ft. H.E.R. (devoted) · From the Start — Laufey (funny/warm) · Dandelions — Ruth B. (share posts). Every caption is the full caption; every p.s. goes in your own first comment, pinned.
+
+**Post 1** — Text: You mentioned it once. It's already ordered. Act surprised. · Song: Best Part · Caption: caught caring again. love, wynnona · P.S.: p.s. tell me the last thing you bought because someone mentioned it once.
+**Post 2** — Text: You said it casually. I heard it in 4K. · Song: Sparks · Caption: noticing is the whole point. love, wynnona · P.S.: p.s. who did you think of? don't tell me. tell them.
+**Post 3** — Text: Me after finding the exact thing you mentioned in March. · Song: From the Start · Caption: caught caring again. love, wynnona · P.S.: p.s. fill in the blank: you said you liked ___, so obviously i remembered.
+**Post 4** — Text: Someone has to care first. Fine. It's me. It's always me. I don't mind. · Song: Sparks · Caption: caring loudly. love, wynnona · P.S.: p.s. comment 🤍 if you're the one who always cares first.
+**Post 5** — Text: This is your sign to send the "thinking of you" text. I'll wait. · Song: Dandelions · Caption: for my fellow yearners. love, wynnona · P.S.: p.s. i'll wait.
+**Post 6** — Text: You can't say "I've been craving that" around me. It WILL appear. · Song: Best Part · Caption: yes, i'm like this on purpose. love, wynnona · P.S.: p.s. what's their usual order? go.
+**Post 7** — Text: POV: you just said something you'll forget by tomorrow. I won't. · Song: From the Start · Caption: noticing is the whole point. love, wynnona · P.S.: p.s. what's one tiny thing you've never forgotten about someone? i'm collecting them.
+**Post 8** — Text: The most unbothered I've ever been is caring anyway. · Song: Sparks · Caption: the opposite of nonchalant. love, wynnona · P.S.: p.s. check on your soft friends.
+**Post 9** — Text: Asking "did you eat today?" is my version of small talk. · Song: Best Part · Caption: this is how i love people. love, wynnona · P.S.: p.s. so… did you eat today?
+**Post 10** — Text: For the friend who texts "home safe?" before you've even left. · Song: Dandelions · Caption: caring loudly. love, wynnona · P.S.: p.s. you know exactly who.
+**Post 11** — Text: Me, pretending I didn't already buy the thing you're describing. · Song: From the Start · Caption: caught caring again. love, wynnona · P.S.: p.s. tag yourself: are you this person or do you HAVE this person?
+**Post 12** — Text: You mentioned it half-asleep at 1am. It's in my Notes app under your name. · Song: Sparks · Caption: noticing is the whole point. love, wynnona · P.S.: p.s. what's in your notes app under their name?
+**Post 13** — Text: Not a special occasion. I just decided you deserve effort today. · Song: Best Part · Caption: caring loudly. love, wynnona · P.S.: p.s. tell them today.
+**Post 14** — Text: Me hearing "you didn't have to" for the fourth time this month. And yet. · Song: From the Start · Caption: caught caring again. love, wynnona · P.S.: p.s. comment 🧸 if your love language is remembering.
+**Post 15** — Text: To the ones who care first: you're not embarrassing. You're rare. · Song: Dandelions · Caption: the opposite of nonchalant. love, wynnona · P.S.: p.s. comment 🤍 if this is you.
+**Post 16** — Text: Caring first is not losing. It's literally just going first. · Song: Sparks · Caption: never learned to play it cool. love, wynnona · P.S.: p.s. read that again.
+**Post 17** — Text: Booked the thing you said you'd "never get around to." We're going. · Song: Best Part · Caption: caught caring again. love, wynnona · P.S.: p.s. what's the thing you keep saying you'll "get around to"?
+**Post 18** — Text: You laughed at my joke once, so now I save my best material for you. · Song: From the Start · Caption: for my fellow yearners. love, wynnona · P.S.: p.s. tag the friend you save your best jokes for.
+**Post 19** — Text: Thinking about how you paused before you said "I'm fine." · Song: Sparks · Caption: this is how i love people. love, wynnona · P.S.: p.s. send this to them instead of explaining.
+**Post 20** — Text: You have a person you screenshot things for. Yes, that one. Tell them. · Song: Dandelions · Caption: romanticize people, not just your life. love, wynnona · P.S.: p.s. don't just like this. send it.
+**Post 21** — Text: Your "random" care package was not random. I planned it for two weeks. · Song: Best Part · Caption: caught caring again. love, wynnona · P.S.: p.s. what would be in yours? building a master list.
+**Post 22** — Text: When the barista knows I'm ordering for two. · Song: From the Start · Caption: romanticize people, not just your life. love, wynnona · P.S.: p.s. what's their usual order? go.
+**Post 23** — Text: I'd rather text first every time than let you wonder if I care. · Song: Sparks · Caption: never learned to play it cool. love, wynnona · P.S.: p.s. who did you think of? don't tell me. tell them.
+**Post 24** — Text: Three people crossed my mind today. All three got a text. · Song: Best Part · Caption: caring loudly. love, wynnona · P.S.: p.s. your turn. three people. go.
+**Post 25** — Text: Send this to the person whose order you know by heart. · Song: Dandelions · Caption: noticing is the whole point. love, wynnona · P.S.: p.s. and yes, order it for them next time.
+**Post 26** — Text: The face of someone who just finished planning your birthday. It's months away. · Song: From the Start · Caption: yes, i'm like this on purpose. love, wynnona · P.S.: p.s. how early is too early? wrong answers only.
+**Post 27** — Text: If I've met you, I've probably memorized something about you. · Song: Sparks · Caption: noticing is the whole point. love, wynnona · P.S.: p.s. what's one tiny thing you've never forgotten about someone? i'm collecting them.
+**Post 28** — Text: POV: I'm about to say "I saw this and thought of you" for the third time this week. · Song: Best Part · Caption: caught caring again. love, wynnona · P.S.: p.s. send them the last thing that reminded you of them.
+**Post 29** — Text: Me after sending a risky text like "I miss you." No regrets. Zero. · Song: From the Start · Caption: never learned to play it cool. love, wynnona · P.S.: p.s. this is your sign. send it.
+**Post 30** — Text: If you have a friend who remembers everything you say — that's not a friend, that's a keeper. · Song: Dandelions · Caption: for my fellow yearners. love, wynnona · P.S.: p.s. tag your keeper.
+**Post 31** — Text: Playing hard to get sounds exhausting. I'm playing easy to love. · Song: Sparks · Caption: yes, i'm like this on purpose. love, wynnona · P.S.: p.s. read that again.
+**Post 32** — Text: Off to show up. Early. With snacks. As is tradition. · Song: Best Part · Caption: this is how i love people. love, wynnona · P.S.: p.s. what's your showing-up snack? mine's mandatory.
+**Post 33** — Text: When you tell me your good news first. FIRST. Do you know what that means to me? · Song: From the Start · Caption: caring loudly. love, wynnona · P.S.: p.s. who gets your good news first? tag them.
+**Post 34** — Text: Being soft in a nonchalant world is a full-time job. Anyway, I'm thriving. · Song: Sparks · Caption: for my fellow yearners. love, wynnona · P.S.: p.s. check on your soft friends.
+**Post 35** — Text: Some of you have a friend who's been planning your birthday since March. Appreciate her. · Song: Dandelions · Caption: caught caring again. love, wynnona · P.S.: p.s. she knows who she is.
+**Post 36** — Text: I heard "no gifts this year" and simply did not agree. · Song: Best Part · Caption: yes, i'm like this on purpose. love, wynnona · P.S.: p.s. "don't get me anything" means nothing here.
+**Post 37** — Text: Me, listening to you tell the story I've heard four times. Go on. I love this part. · Song: From the Start · Caption: this is how i love people. love, wynnona · P.S.: p.s. tag yourself: are you this person or do you HAVE this person?
+**Post 38** — Text: Me, remembering the thing you told me not to worry about. Worrying. Lovingly. · Song: Sparks · Caption: caring loudly. love, wynnona · P.S.: p.s. yes i'm still thinking about it.
+**Post 39** — Text: My screenshots folder is basically a museum of things you'd love. · Song: Best Part · Caption: romanticize people, not just your life. love, wynnona · P.S.: p.s. open your screenshots. who are they for?
+**Post 40** — Text: POV: someone in your life loves like this. Send this so they know you noticed. · Song: Dandelions · Caption: noticing is the whole point. love, wynnona · P.S.: p.s. noticing the noticers. that's the assignment.
+**Post 41** — Text: When you wear the thing I got you without knowing I noticed. · Song: From the Start · Caption: caught caring again. love, wynnona · P.S.: p.s. comment 🧸 if your love language is remembering.
+**Post 42** — Text: I don't miss people quietly. You'll get a text. Maybe a paragraph. · Song: Sparks · Caption: never learned to play it cool. love, wynnona · P.S.: p.s. send this to them instead of explaining.
+**Post 43** — Text: Yes, there's a card in my bag. Yes, I wrote it last night. Yes, I cried a little. · Song: Best Part · Caption: caught caring again. love, wynnona · P.S.: p.s. handwritten > everything. discuss.
+**Post 44** — Text: The face of someone with three surprises currently in progress. · Song: From the Start · Caption: yes, i'm like this on purpose. love, wynnona · P.S.: p.s. none of them suspect a thing.
+**Post 45** — Text: Reply to this with their name. Just kidding. Text them instead. · Song: Dandelions · Caption: caring loudly. love, wynnona · P.S.: p.s. ok fine, you can also comment their name.
+**Post 46** — Text: Normalize saying "I thought about you today" with your whole chest. · Song: Sparks · Caption: the opposite of nonchalant. love, wynnona · P.S.: p.s. tell them today.
+**Post 47** — Text: This is what "I'll be there in 10" looks like when I mean it. · Song: Best Part · Caption: never learned to play it cool. love, wynnona · P.S.: p.s. reliability is romantic. spread the word.
+**Post 48** — Text: How I look when someone finally lets me help them. · Song: From the Start · Caption: this is how i love people. love, wynnona · P.S.: p.s. letting people help you is also a love language.
+**Post 49** — Text: I reread my texts to you. Not out of anxiety. Out of craftsmanship. · Song: Sparks · Caption: yes, i'm like this on purpose. love, wynnona · P.S.: p.s. every word was intentional. always is.
+**Post 50** — Text: If you read this and thought of someone — that's the whole point. Go. · Song: Dandelions · Caption: for my fellow yearners. love, wynnona · P.S.: p.s. report back.
+**Post 51** — Text: Meeting you in 20. Already excited. Not hiding it. · Song: Best Part · Caption: never learned to play it cool. love, wynnona · P.S.: p.s. yes, this one's about you.
+**Post 52** — Text: When my delivery notification says your gift arrives tomorrow. · Song: From the Start · Caption: caught caring again. love, wynnona · P.S.: p.s. tell me the last thing you bought because someone mentioned it once.
+**Post 53** — Text: I heard your voice change on the phone yesterday. So — how are you actually? · Song: Sparks · Caption: this is how i love people. love, wynnona · P.S.: p.s. check on your soft friends.
+**Post 54** — Text: Saving memes for you is a form of long-distance hand-holding. · Song: Best Part · Caption: for my fellow yearners. love, wynnona · P.S.: p.s. send them one right now. i'll know.
+**Post 55** — Text: You said my name in a story that had nothing to do with me. Anyway, I'm glowing. · Song: From the Start · Caption: yes, i'm like this on purpose. love, wynnona · P.S.: p.s. it really is that easy to make my day.
+**Post 56** — Text: There's an album in my camera roll called "things that are so you." · Song: Sparks · Caption: romanticize people, not just your life. love, wynnona · P.S.: p.s. what would be in your version of this album?
+**Post 57** — Text: I don't do fashionably late. I do embarrassingly early with your coffee order. · Song: Best Part · Caption: yes, i'm like this on purpose. love, wynnona · P.S.: p.s. what's their usual order? go.
+**Post 58** — Text: Me after you got home safe and texted without me asking. · Song: From the Start · Caption: this is how i love people. love, wynnona · P.S.: p.s. the growth. the trust. the peace.
+**Post 59** — Text: No one has ever complained that I remembered their birthday too hard. · Song: Sparks · Caption: caught caring again. love, wynnona · P.S.: p.s. comment 🧸 if your love language is remembering.
+**Post 60** — Text: The audacity of people saying "it's not that deep." It IS that deep. Everything is. · Song: From the Start · Caption: the opposite of nonchalant. love, wynnona · P.S.: p.s. read that again.
+
 ### The end state
 After several videos, the audience isn't watching "cute relationship content." They're watching a person with a legible philosophy: she remembers, she notices, she makes things, she shows up — and she refuses to be embarrassed about it. That's when "this is literally me" reposts turn into "this is how Wynnona loves."
