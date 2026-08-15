@@ -152,12 +152,6 @@ p{ margin:0 0 1.1em; }
 .cover-in > *:nth-child(5){ animation-delay:1.9s }
 @keyframes riseIn{ to{ opacity:1; transform:none } }
 
-.monogram{
-  display:flex; align-items:center; justify-content:center; gap:14px;
-  margin-bottom:clamp(26px,6vw,44px);
-  font-family:var(--serif); font-size:13px; letter-spacing:.3em; color:var(--gold);
-}
-.monogram span{ display:block; width:34px; height:1px; background:rgba(184,148,79,.5); }
 #cover h1{ font-size:clamp(38px,10.5vw,74px); margin:0 0 22px; }
 #cover h1 em{ font-style:italic; }
 .heart{ font-size:.62em; vertical-align:.28em; margin-left:.12em; }
@@ -732,7 +726,7 @@ body.closed #cover,body.closed #experience,body.closed #final,body.closed #music
 .no-anim, .no-anim *{ transition:none !important; animation:none !important; }
 
 /* Nothing here should feel like a form. */
-.btn,.card,.list li,.pour,.envelope,.scene .hot,#music,.monogram,.eyebrow{
+.btn,.card,.list li,.pour,.envelope,.scene .hot,#music,.eyebrow{
   -webkit-user-select:none; user-select:none;
 }
 </style>
@@ -752,7 +746,6 @@ body.closed #cover,body.closed #experience,body.closed #final,body.closed #music
 <section id="cover">
   <div class="cover-frame"></div>
   <div class="cover-in">
-    <div class="monogram"><span></span>W &nbsp;·&nbsp; P<span></span></div>
     <h1 class="display">For your new home, <em>Paul</em>.<span class="heart">🤍</span></h1>
     <p class="cover-sub">Un petit quelque chose pour célébrer ce nouveau chapitre.</p>
     <button class="btn" id="openGift">Open your housewarming gift <span class="arrow">→</span></button>
@@ -764,7 +757,6 @@ body.closed #cover,body.closed #experience,body.closed #final,body.closed #music
 <section id="closed">
   <div class="cover-frame"></div>
   <div class="cover-in">
-    <div class="monogram"><span></span>W &nbsp;·&nbsp; P<span></span></div>
     <h2 class="display">Cette lettre s'est refermée.</h2>
     <p class="en-sub">This letter has closed</p>
     <p class="sealed">It was only ever meant to stay open a little while — like a good evening, or a bottle worth finishing. J'espère qu'elle t'a plu. 🤍</p>
@@ -1141,7 +1133,6 @@ body.closed #cover,body.closed #experience,body.closed #final,body.closed #music
 <section id="final">
   <div class="cover-frame"></div>
   <div class="cover-in in">
-    <div class="monogram"><span></span>W &nbsp;·&nbsp; P<span></span></div>
     <h2 class="display">Bienvenue chez toi, <em>Paul</em>.</h2>
     <p class="sub2">Now go celebrate properly. 🥂</p>
     <button class="btn ghost" id="replay">Replay my little housewarming gift ↻</button>
