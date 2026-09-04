@@ -1150,7 +1150,7 @@ body.closed #cover,body.closed #experience,body.closed #final,body.closed #music
      by the closing note, with no date shown to the reader.
      Add ?closed=1 to the address to preview that screen.
      ========================================================== */
-  var CLOSED = false;
+  var CLOSED = true;
 
   if(CLOSED || /[?&]closed=1/.test(location.search)){
     document.body.classList.add('closed');
